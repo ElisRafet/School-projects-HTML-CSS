@@ -1,0 +1,27 @@
+body {
+    width: 800px;
+}
+h1, h2 {
+    margin: 0;
+}
+.block1 {
+    background-color: #ede4d5;
+    text-align: center;
+}
+.block2 {
+    background-color: #e3cfb4;
+    text-align: center;
+}
+.container {
+background-color: #ede4d5;
+display: flex;
+}
+p {
+    text-align: center;
+    font-weight: bold;
+}
+.blocks {
+    display: inline-block;
+    width: 30%;
+    margin-left: auto;
+}
